@@ -236,8 +236,6 @@ A feature-rich calculator with advanced mathematical operations, history trackin
 #### 🌐 Personal Portfolio
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Intiyaj-Raj&repo=personal-portfolio&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/Intiyaj-Raj/CodeAlpha-Intern/tree/main/CodeAlpha_personal_portfolio)
 
-[![Readme Card](https://intiyajansarifullstackdeveloper.netlify.app/)](https://github.com/Intiyaj-Raj/CodeAlpha-Intern/tree/main/CodeAlpha_personal_portfolio)
-
 **Tech Stack:** `React` `Tailwind` `Framer Motion`
 
 Modern portfolio showcasing projects with interactive animations, dark/light mode toggle, and responsive design.
