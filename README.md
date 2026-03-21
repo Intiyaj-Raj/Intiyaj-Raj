@@ -41,7 +41,7 @@ A highly motivated Frontend Developer with a strong foundation in HTML, CSS, Tai
 - 🌱 I'm exploring **Advanced System Architecture & Cloud Solutions**
 - 👯 Looking to collaborate on **Innovative Open Source Projects**
 - 💬 Ask me about **Web Development, React, Node.js, System Design**
-- 📫 Reach me at: **[Email](intiyajansari8757@gmail.com)**
+- 📫 Reach me at: **[Email](mailto:intiyajansari8757@gmail.com)**
 - ⚡ Fun fact: **I debug better with coffee ☕**
 
 </div>
