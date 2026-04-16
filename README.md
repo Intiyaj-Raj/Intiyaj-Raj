@@ -55,27 +55,6 @@ A highly motivated Frontend Developer with a strong foundation in HTML, CSS, Tai
 
 <div data-aos="bounce-in" data-aos-duration="1000">
 
-## 🎯 Current Learning Goals
-
-</div>
-
-<div align="center" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,graphql,rust&theme=dark" alt="Learning Goals" /><br/>
-  <sub><sup>🚀 AWS Cloud Architecture • 🐳 Docker & Kubernetes • 📊 GraphQL • ⚡ Rust Programming</sup></sub>
-</div>
-
-<!-- Animated Progress Bars -->
-<!-- <div align="center" data-aos="slide-up" data-aos-duration="1200" data-aos-delay="400">
-  
-### 📈 Learning Progress
-  
-![AWS](https://geps.dev/progress/75?dangerColor=800080&warningColor=ff9500&successColor=006600)
-![Docker](https://geps.dev/progress/60?dangerColor=800080&warningColor=ff9500&successColor=006600)
-![Kubernetes](https://geps.dev/progress/45?dangerColor=800080&warningColor=ff9500&successColor=006600)
-![GraphQL](https://geps.dev/progress/80?dangerColor=800080&warningColor=ff9500&successColor=006600)
-![Rust](https://geps.dev/progress/30?dangerColor=800080&warningColor=ff9500&successColor=006600)
-
-</div> -->
 
 <div data-aos="fade-right" data-aos-duration="1000">
 
@@ -98,11 +77,11 @@ A highly motivated Frontend Developer with a strong foundation in HTML, CSS, Tai
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&labelColor=black)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=black)
-<!-- ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white&labelColor=black) -->
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white&labelColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=black)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=black)
 <!-- ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white&labelColor=black) -->
-<!-- ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white&labelColor=black) -->
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white&labelColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white&labelColor=black)
 <!-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=black) -->
 
@@ -135,8 +114,8 @@ A highly motivated Frontend Developer with a strong foundation in HTML, CSS, Tai
 
 <div data-aos="fade-up" data-aos-duration="600" data-aos-delay="600">
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=black)
+<!-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=black) -->
+<!-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=black) -->
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=black)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white&labelColor=black)
@@ -156,9 +135,9 @@ A highly motivated Frontend Developer with a strong foundation in HTML, CSS, Tai
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&labelColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=black)
+<!-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=black) -->
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white&labelColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=black)
+<!-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=black) -->
 <!-- ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white&labelColor=black) -->
 
 </div>
