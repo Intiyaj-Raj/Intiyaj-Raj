@@ -211,10 +211,16 @@ A feature-rich calculator with advanced mathematical operations, history trackin
 </tr>
 <tr>
 <td width="50%">
-#### 🌐 Personal Portfolio
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Intiyaj-Raj&repo=personal-portfolio&theme=radical&hide_border=true&bg_color=0d1117)]([https://github.com/Intiyaj-Raj/CodeAlpha-Intern/tree/main/CodeAlpha_personal_portfolio](https://intiyajansarifullstackdeveloper.netlify.app/))
 
-**Tech Stack:** `React` `Tailwind` `Framer Motion`
+#### 🌐 Personal Portfolio
+
+<a href="https://intiyajansarifullstackdeveloper.netlify.app/" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Intiyaj-Raj&repo=personal-portfolio&theme=radical&hide_border=true&bg_color=0d1117" />
+</a>
+
+<br/><br/>
+
+**Tech Stack:** React, Tailwind, Framer Motion  
 
 Modern portfolio showcasing projects with interactive animations, dark/light mode toggle, and responsive design.
 
